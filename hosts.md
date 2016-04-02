@@ -101,3 +101,17 @@
   * **php55**: 5.5
   * **php56**: 5.6
   * **php70**: 7.0
+
+- [Versio](https://www.versio.nl)
+  * **php55**: 5.5
+  * **php56**: 5.6
+  * 
+
+- [Vimexx](http://vimexx.nl)
+  * **php55**: 5.5
+  * **php56**: 5.6
+  
+- [TransIP](http://transip.nl)
+  * **php54**: 5.4
+  * **php55**: 5.5
+  * **php56**: 5.6
